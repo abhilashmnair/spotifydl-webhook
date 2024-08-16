@@ -1,9 +1,9 @@
 # SpotifyDL - A Telegram Bot for downloading songs
 
-**I am NOT responsible for the usage of this program by other people and DO NOT recommend you doing this illegally or against Deezer's terms of service.**
-**This project is licensed under CC BY-NC-SA 4.0**
+**I am NOT responsible for using this program by other people and DO NOT recommend you do this illegally or against Deezer's terms of service.**
+**This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
 
-This is the code repo for the webhook of Telegram that can be used to download songs using queries and Spotify URLs.
+This is the code repo for Telegram's webhook that can download songs using queries and Spotify URLs.
 Special thanks to [An0nimia](https://github.com/An0nimia/) for his library
 
 ## Usage
@@ -22,4 +22,4 @@ pip3 install -r requiremnets.txt
 python3 index.py
 ```
 
-`Note: This can be hosted on Heroku or other platforms. Configurations for those platforms are to be done prior to running the code`
+`Note: This can be hosted on Heroku or other platforms. Configurations for those platforms are to be done before running the code`
