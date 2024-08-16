@@ -12,7 +12,8 @@ Get all the credentials required for running the bot and update the `.config.ini
 - [Spotify Credentials](https://developer.spotify.com/)
 - [Deezer Credentials](https://developers.deezer.com/)
 - [Genius API Key](https://docs.genius.com/)
-- [Telegram Bot Token](https://telegram.me/BotFather) 
+- [Telegram Bot Token](https://telegram.me/BotFather)
+- [Google Firebase Database](https://firebase.google.com/)
 
 Add your Google Firebase config in `index.py`. This is used as a cache to save trackid and its url.
 
